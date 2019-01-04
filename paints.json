@@ -1,0 +1,48 @@
+[
+	{
+		"name": "Mona Lisa",
+		"image": "https://img.elo7.com.br/product/zoom/1E53E17/mona-lisa-grafico-ponto-cruz.jpg",
+		"Artista": "Leonardo da Vinci",
+		"Tamanho": "77x53",
+		"Periodo": "Renascimento",
+		"Material": "Tinta a óleo",
+		"id": 1
+	},
+	{
+		"name": "A Noite Estrelada",
+		"image": "https://www.infoescola.com/wp-content/uploads/2013/09/noite-estrelada.jpg",
+		"Artista": "Vincent van Gogh",
+		"Tamanho": "73,66x92,08",
+		"Periodos": "Pós-impressionismo, Arte moderna",
+		"Material": "Tinta a óleo",
+		"id": 2
+	},
+	{
+		"name": "A Persistência da Memória",
+		"image": "https://cdn.culturagenial.com/imagens/the-persistence-of-memory-1931-jpg-halfhd-cke.jpg",
+		"Artista": "Salvador Dalí",
+		"Tamanho": "24x33",
+		"Periodos": "Surrealismo, Vanguarda",
+		"Material": "Bronze, Tinta a óleo",
+		"id": 3
+	},
+	{
+		"name": "Guernica",
+		"image": "https://cdn.culturagenial.com/imagens/guernica-cke.jpg",
+		"Artista": "Pablo Picasso",
+		"Tamanho": "3,49m x 7,77m",
+		"Periodos": "Cubismo, Surrealismo",
+		"Material": "Tinta a óleo",
+		"id": 4
+	},
+	{
+		"name": "A Última Ceia",
+		"image": "https://www.infoescola.com/wp-content/uploads/2012/03/santa-ceia.jpg",
+		"Artista": "Leonardo da Vinci",
+		"Tamanho": "4,6mx8,8m",
+		"Periodos": "Renascimento",
+		"Material": "Tinta a óleo",
+		"id": 5
+	}
+	
+]
