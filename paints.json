@@ -6,7 +6,8 @@
 		"Tamanho": "77x53",
 		"Periodo": "Renascimento",
 		"Material": "Tinta a óleo",
-		"id": 1
+		"id": 1,
+		"beaconID": "1534693be06fce6011d699804e5aed3d"
 	},
 	{
 		"name": "A Noite Estrelada",
@@ -15,7 +16,9 @@
 		"Tamanho": "73,66x92,08",
 		"Periodos": "Pós-impressionismo, Arte moderna",
 		"Material": "Tinta a óleo",
-		"id": 2
+		"id": 2,
+		"beaconID": "95ce1df2df61e0d12fcf3e2ffb29662e"
+		
 	},
 	{
 		"name": "A Persistência da Memória",
@@ -24,7 +27,8 @@
 		"Tamanho": "24x33",
 		"Periodos": "Surrealismo, Vanguarda",
 		"Material": "Bronze, Tinta a óleo",
-		"id": 3
+		"id": 3,
+		"beaconID": "b86cc644cc2b03868a11ada032efd10d"
 	},
 	{
 		"name": "Guernica",
