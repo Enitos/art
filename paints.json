@@ -7,7 +7,7 @@
 		"Periodo": "Renascimento",
 		"Material": "Tinta a óleo",
 		"id": 201,
-		"beaconName": "black1"
+		"beaconName": "mona"
 	},
 	{
 		"name": "A Noite Estrelada",
@@ -17,18 +17,8 @@
 		"Periodos": "Pós-impressionismo, Arte moderna",
 		"Material": "Tinta a óleo",
 		"id": 2,
-		"beaconName": "black2"
+		"beaconName": "noite"
 		
-	},
-	{
-		"name": "A Persistência da Memória",
-		"image": "https://cdn.culturagenial.com/imagens/the-persistence-of-memory-1931-jpg-halfhd-cke.jpg",
-		"Artista": "Salvador Dalí",
-		"Tamanho": "24x33",
-		"Periodos": "Surrealismo, Vanguarda",
-		"Material": "Bronze, Tinta a óleo",
-		"id": 3,
-		"beaconName": "black3"
 	},
 	{
 		"name": "Guernica",
@@ -38,7 +28,7 @@
 		"Periodos": "Cubismo, Surrealismo",
 		"Material": "Tinta a óleo",
 		"id": 4,
-		"beaconName": "black4"
+		"beaconName": "guernica"
 	},
 	{
 		"name": "A Última Ceia",
@@ -48,7 +38,7 @@
 		"Periodos": "Renascimento",
 		"Material": "Tinta a óleo",
 		"id": 5,
-		"beaconName": "black5"
+		"beaconName": "ceia"
 	}
 	
 ]
