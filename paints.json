@@ -6,8 +6,9 @@
 		"Tamanho": "77x53",
 		"Periodo": "Renascimento",
 		"Material": "Tinta a óleo",
-		"id": 201,
-		"beaconName": "mona"
+		"id": 1,
+		"beaconName": "mona",
+		"cover": "leonardo"
 	},
 	{
 		"name": "A Noite Estrelada",
@@ -17,7 +18,8 @@
 		"Periodos": "Pós-impressionismo, Arte moderna",
 		"Material": "Tinta a óleo",
 		"id": 2,
-		"beaconName": "noite"
+		"beaconName": "noite",
+		"cover": "van"
 		
 	},
 	{
@@ -28,7 +30,8 @@
 		"Periodos": "Cubismo, Surrealismo",
 		"Material": "Tinta a óleo",
 		"id": 4,
-		"beaconName": "guernica"
+		"beaconName": "guernica",
+		"cover": "picasso"
 	},
 	{
 		"name": "A Última Ceia",
@@ -38,7 +41,8 @@
 		"Periodos": "Renascimento",
 		"Material": "Tinta a óleo",
 		"id": 5,
-		"beaconName": "ceia"
+		"beaconName": "ceia",
+		"cover": "leonardo"
 	}
 	
 ]
